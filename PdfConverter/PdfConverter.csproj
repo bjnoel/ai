@@ -10,4 +10,8 @@
     <PackageReference Include="Magick.NET-Q8-AnyCPU" Version="13.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\lib\" />
+  </ItemGroup>
+
 </Project>
